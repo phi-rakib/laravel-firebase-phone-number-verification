@@ -18,7 +18,6 @@ cd laravel-firebase-phone-number-verification
 ```bash
 composer install
 ```
-- Create database
 - Copy the environment file
 ```bash
 cp .env.example .env
